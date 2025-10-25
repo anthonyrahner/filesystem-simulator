@@ -14,9 +14,10 @@ This project models the hierarchical structure of files and directories using dy
 - **Concepts Used:** Pointers, Structs, Bitwise Operations, Dynamic Memory Allocation  
 - **Topics:** Filesystem Simulation, Tree Data Structures, Operating System Fundamentals  
 
-## 🔗 Related Coursework
-- Rutgers University — Computer Architecture (Spring 2024)
+## 🔒 Repository Access
+This project was originally developed on a private university GitHub account and the source code is not publicly available.  
+This repository documents the project structure, features, and technical implementation details for portfolio purposes.
 
-## 📁 Original Repository
-This project was originally developed on a course-managed GitHub repository under my university account.  
-➡️ [Original Repo (Rutgers GitHub)](https://github.com/fluxlab/programming-assignment-3-anthonyrahner7.git)
+---
+
+**Keywords:** Filesystem, C, Computer Architecture, Data Structures, Dynamic Memory, Pointers, Trees
